@@ -1,0 +1,14 @@
+body {
+  background-color: #FFFFE0; /* Warna Kuning Cerah */
+  font-family: Arial, Times New Roman; /* jenis huruf yang mudah di baca */
+  color: #191970; /* warna teks utama (warna biru gelap) */
+}
+
+.Kartu-Profil.img {
+  width: 300px;
+  margin: 50px auto; /* 50px top/bottom spacing, auto center left/right */
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px; /* Make the corners curved */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Shadow effect */
+}
